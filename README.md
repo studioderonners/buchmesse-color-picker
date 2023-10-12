@@ -1,2 +1,1 @@
-# Alles Außer Flach
-## Campaign color picker
+# Alles Außer Flach, Campaign color picker
