@@ -838,4 +838,22 @@ img, video {
   }
 }
 
+@media (orientation: portrait) {
+  .portrait\:h-fit {
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .portrait\:w-full {
+    width: 100%;
+  }
+}
+
+@media (orientation: landscape) {
+  .landscape\:h-fit {
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+}
+
 /*# sourceMappingURL=index.4110e2cc.css.map */
